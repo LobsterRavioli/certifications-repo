@@ -55,4 +55,4 @@ The subject of the responsability various on these topics:
 - Applications
 - Identity and infrastructure
 
-![[../../images/shared-responsibility-b3829bfe.svg]]
+![Shared Responsibility Model](assets/images/shared-responsibility-b3829bfe.svg)
