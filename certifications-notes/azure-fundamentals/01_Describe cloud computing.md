@@ -42,14 +42,14 @@ If The Bank will use Azure SQL the Bank it will only manage the data ingestion o
 If the Bank will use a VM machine service, the bank will need to manage database patches and updates and maintaining the data and information stored in the database.
 
 Like we said before the shared responsability model is heavily tied to the type of cloud service.
-- In Saas(Software as a service): There's more responsibility on the cloud vendor side.
-- In Paas(Platform as a service): There's more responsibility on the cloud vendor side.
-- In Iaas (Infrastructure as a service): There's more responsibility on the 
+- In **SAAS** (Software as a service): There's more responsibility on the cloud vendor side.
+- In **PAAS** (Platform as a service): There's more responsibility on the cloud vendor side.
+- In **IAAS** (Infrastructure as a service): There's more responsibility on the 
 
-The cloud consumer will be alway responsible for information management, device connectivity and accout and identities of the people services of the organization.
-The cloud provider will be always responsible for physical datacente, physical network and physical hosts.
+The cloud consumer will be alway responsible for information management, device connectivity and account and identities of the people services of the organization.
+The cloud provider will be always responsible for physical datacenter, physical network and physical hosts.
 
-The subject of the responsability various on these topics:
+The subject of the responsibility various on these topics:
 - Operating systems
 - Network controls
 - Applications
