@@ -54,3 +54,5 @@ The subject of the responsability various on these topics:
 - Network controls
 - Applications
 - Identity and infrastructure
+
+![[../../images/shared-responsibility-b3829bfe.svg]]
