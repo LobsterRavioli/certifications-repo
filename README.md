@@ -1,29 +1,40 @@
-# Azure Notes Repository 📘
+# Certification Notes Repository 📘
 
-This repository contains notes and resources for studying **Azure Fundamentals (AZ-900)** and **Azure Developer Associate (AZ-204)**. 
+This repository contains notes and resources for studying various certifications. It is organized by certification topics to make learning easier and structured.
 
 ---
 
 ## 📋 Table of Contents
-1. [Study Topics](#study-topics)
-2. [Resources](#resources)
-## 📝 Study Topics
-
-  
-
-- **[Azure Fundamentals (AZ-900)](azure-fundamentals/index.md)**:  
-
-  Basic cloud concepts, Azure architecture, security, pricing, and support.
-
-  
-
-- **[Azure Developer Associate (AZ-204)](azure-developer-associate/index.md)**:  
-
-  Developing, deploying, and maintaining Azure solutions with various services and tools.
-
-  
+- [Study Topics](#study-topics)
+- [Resources](#resources)
 
 ---
-## 📚 Resources
-- [Microsoft Learn](https://learn.microsoft.com/)
 
+## 📝 Study Topics
+
+- **[Azure Fundamentals (AZ-900)](azure-fundamentals/index.md)**  
+  Notes on cloud concepts, Azure architecture, security, pricing, and support.
+
+- **[Azure Developer Associate (AZ-204)](azure-developer-associate/index.md)**  
+  Notes on developing, deploying, and maintaining Azure solutions.
+
+- **[LPIC-101](lpic-101/index.md)**  
+  Notes on Linux system administration, including command-line usage, file systems, and system processes.
+
+---
+
+## 📚 Resources
+
+- [Microsoft Learn](https://learn.microsoft.com/)
+- [Linux Professional Institute (LPI) Official Resources](https://www.lpi.org/)
+- [Official Certification Paths](https://learn.microsoft.com/en-us/certifications/)
+- Practice tests and additional study resources relevant to each certification.
+
+---
+
+## How to Contribute
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/certification-notes.git
+   cd certification-notes
