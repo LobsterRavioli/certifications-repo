@@ -12,18 +12,23 @@ This repository contains notes and resources for studying **Azure Fundamentals (
 5. [Contributing](#contributing)
 6. [License](#license)
 
----
-
 ## 📝 Study Topics
 
-- **Azure Fundamentals (AZ-900)**:  
-  Basic cloud concepts, Azure architecture, security, pricing, and support.
+  
 
-- **Azure Developer Associate (AZ-204)**:  
-  Developing, deploying, and maintaining Azure solutions with various services and tools.
+- **[Azure Fundamentals (AZ-900)](azure-fundamentals/index.md)**:  
+
+  Basic cloud concepts, Azure architecture, security, pricing, and support.
+
+  
+
+- **[Azure Developer Associate (AZ-204)](azure-developer-associate/index.md)**:  
+
+  Developing, deploying, and maintaining Azure solutions with various services and tools.
+
+  
 
 ---
-
 ## 📚 Resources
 - [Microsoft Learn](https://learn.microsoft.com/)
 
