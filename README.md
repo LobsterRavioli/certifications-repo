@@ -27,12 +27,3 @@ This repository contains notes and resources for studying **Azure Fundamentals (
 ## 📚 Resources
 - [Microsoft Learn](https://learn.microsoft.com/)
 
----
-
-## 🛠️ How to Use This Repository
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/azure-notes.git
-   cd azure-notes
-
