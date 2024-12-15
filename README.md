@@ -7,11 +7,6 @@ This repository contains notes and resources for studying **Azure Fundamentals (
 ## 📋 Table of Contents
 1. [Study Topics](#study-topics)
 2. [Resources](#resources)
-3. [Folder Structure](#folder-structure)
-4. [How to Use This Repository](#how-to-use-this-repository)
-5. [Contributing](#contributing)
-6. [License](#license)
-
 ## 📝 Study Topics
 
   
