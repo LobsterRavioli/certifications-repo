@@ -12,13 +12,13 @@ This repository contains notes and resources for studying various certifications
 
 ## 📝 Study Topics
 
-- **[Azure Fundamentals (AZ-900)](azure-fundamentals/index.md)**  
+- **[Azure Fundamentals (AZ-900)](certifications-notes/azure-fundamentals/index.md)**  
   Notes on cloud concepts, Azure architecture, security, pricing, and support.
 
-- **[Azure Developer Associate (AZ-204)](azure-developer-associate/index.md)**  
+- **[Azure Developer Associate (AZ-204)](certifications-notes/azure-developer-associate/index.md)**  
   Notes on developing, deploying, and maintaining Azure solutions.
 
-- **[LPIC-1](lpic-1/index.md)**  
+- **[LPIC-1](certifications-notes/lpic-1/index.md)**  
   Notes on Linux system administration, including command-line usage, file systems, system processes, and essential tools.
 
 ---
