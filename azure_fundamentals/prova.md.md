@@ -1,1 +1,2 @@
-![[delevoper_associate_logo.png]]
+
+![[../images/delevoper_associate_logo.png]]
