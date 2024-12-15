@@ -1,6 +1,6 @@
 # Certification Notes Repository 📘
 
-This repository contains notes and resources for studying various certifications. It is organized by certification topics to make learning easier and structured.
+This repository contains notes and resources for studying various certifications.
 
 ---
 
