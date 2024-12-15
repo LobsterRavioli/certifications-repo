@@ -1,3 +1,2 @@
-# azure-certifications
-# azure-certifications
-# azure-certifications
+This repo will contain my notes for azure certifications!
+
