@@ -18,8 +18,8 @@ This repository contains notes and resources for studying various certifications
 - **[Azure Developer Associate (AZ-204)](azure-developer-associate/index.md)**  
   Notes on developing, deploying, and maintaining Azure solutions.
 
-- **[LPIC-101](lpic-1/index.md)**  
-  Notes on Linux system administration, including command-line usage, file systems, and system processes.
+- **[LPIC-1](lpic-1/index.md)**  
+  Notes on Linux system administration, including command-line usage, file systems, system processes, and essential tools.
 
 ---
 
