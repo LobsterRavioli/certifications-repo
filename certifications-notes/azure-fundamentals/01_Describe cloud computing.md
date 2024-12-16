@@ -65,6 +65,7 @@ Private cloud are a cloud models used from a single entity.
 It's hosted on a private datacenter, so the coast for the company are more expensive.
 It can be host on a third party too that has a dedicated that datacenter to the company consume.
 ## Public cloud
+
 Public cloud is managed, build from a third-party cloud provider .
 The difference between public and private cloud is the availability.
 
@@ -72,3 +73,21 @@ The difference between public and private cloud is the availability.
 
 Hybrid cloud use private and public cloud model.
 Best of both words, provide more flexibility on security concerns.
+
+
+# Multi cloud
+
+In a multi-cloud environment there's 2 or more cloud provider for deploying services.
+It can be great to have different features of cloud provides in the infrastructure or the typical scenario is that the company is migrated between 2 cloud provider.
+
+# Azure Arc
+
+Azure is a set of tech used for manage various cloud deployment model, it supports:
+- Private cloud
+- Public cloud
+- Multi-cloud
+- Hibryd cloud
+
+# Azure VMware Solution
+
+Azure VMware it's a tech that let you migrate from private to public cloud.
