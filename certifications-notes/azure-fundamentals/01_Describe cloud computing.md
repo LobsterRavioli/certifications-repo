@@ -1,6 +1,7 @@
 
 # Introduction To Microsoft Azure Fundamentals
 
+https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/
 ## What's Microsoft Azure?
 
 Microsoft Azure is a cloud computing platform that offers various services, like:
@@ -56,3 +57,18 @@ The subject of the responsibility various on these topics:
 - Identity and infrastructure
 
 ![Shared Responsibility Model](../../assets/images/shared-responsibility-b3829bfe.svg)
+
+# Define cloud models
+What's cloud models? Cloud models define how you deploy cloud services.
+## Private cloud
+Private cloud are a cloud models used from a single entity.
+It's hosted on a private datacenter, so the coast for the company are more expensive.
+It can be host on a third party too that has a dedicated that datacenter to the company consume.
+## Public cloud
+Public cloud is managed, build from a third-party cloud provider .
+The difference between public and private cloud is the availability.
+
+## Hybrid cloud
+
+Hybrid cloud use private and public cloud model.
+Best of both words, provide more flexibility on security concerns.
