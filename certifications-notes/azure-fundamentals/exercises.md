@@ -22,3 +22,15 @@
 - [x] Infrastructure as a Service (IaaS)  
 - [ ] Software as a Service (SaaS)  
 - [ ] Platform as a Service (PaaS)
+
+## Describe the benefits of using cloud services
+
+1. **Which type of scaling involves adding or removing resources (such as virtual machines or containers) to meet demand?**  
+- [ ] Vertical scaling  
+- [x] Horizontal scaling  
+- [ ] Direct scaling  
+
+2. **What is characterized as the ability of a system to recover from failures and continue to function?**  
+- [x] Reliability  
+- [ ] Predictability  
+- [ ] Scalability  

@@ -35,3 +35,17 @@ Cloud supports governance and compliance,
 Templates can help ensuring fovernment regulatory requirements.
 On the security side, by the nature of the cloud (services over the internet) it's secure by design providers are tipically well suited to handle things like DDosS attacks offering a robust and secure network to use.
 
+# Describe the benefits of manageability in the cloud
+
+In cloud you can:
+- Automatically scale resource deployment
+- Deploy resources using templates
+- Recieve alerts based on configured metrics
+
+## Management in the cloud
+
+You can manage cloud trough various tools:
+- web portal
+- CLI
+- APIS
+- Powershell
