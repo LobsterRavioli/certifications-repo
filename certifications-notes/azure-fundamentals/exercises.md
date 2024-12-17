@@ -3,13 +3,13 @@
 
 1. **What is cloud computing?**  
 
-   - [ ] Delivery of computing services over the internet  
-   - [ ] Delivery of storage services over the internet  
-   - [ ] Delivery of websites accessible via the internet  
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
   
-
-2. **Which cloud model uses some datacenters focused on providing cloud services to anyone that wants them, and some data centers that are focused on a single customer?**  
+	
+1. **Which cloud model uses some datacenters focused on providing cloud services to anyone that wants them, and some data centers that are focused on a single customer?**  
 
    - [ ] Public cloud  
    - [ ] Hybrid cloud  
