@@ -90,4 +90,60 @@ Azure is a set of tech used for manage various cloud deployment model, it suppor
 
 # Azure VMware Solution
 
-Azure VMware it's a tech that let you migrate from private to public cloud.
+Azure VMware it's a tech that let you migrate from private to public cloud
+
+## Describe the consumption-based model
+
+There's 2 main type of expenses to consider when we're talking bout IT infrastruture models.
+
+- CapEx: amount of spent 1 time like building a datacenter and a parking lot.
+- OpEx: amount  of spent over time.
+
+Cloud is an Opex coast because you pay for what you use.
+
+Cloud consumption model has alot of benefits:
+- No upfront costs.
+- The ability to pay for more resources when they're needed
+- The ability to pay for more resources when they're needed.
+- The ability to stop paying for resources that are no longer needed
+
+With cloud if you want you need more virtual machine you just add virtual machine, if you don't need some virtual machine you can drop them either.
+You are only paying for virtual machine that you're using.
+
+## Compare Cloud pricing models
+
+Cloud computing is a way to rent computing power and storage frome someone else's datacenter.
+Instead of maintaing CPU and storage in your datacenter, you rend them for them time you need them.
+The cloud provider takes care of mantaining the underlying infrastructure for your.
+
+
+  
+
+1. **What is cloud computing?**  
+
+   - [ ] Delivery of computing services over the internet.  
+
+   - [ ] Delivery of storage services over the internet.  
+
+   - [ ] Delivery of websites accessible via the internet.  
+
+2. **Which cloud model uses some datacenters focused on providing cloud services to anyone that wants them, and some data centers that are focused on a single customer?**  
+
+   - [ ] Public cloud  
+
+   - [ ] Hybrid cloud  
+
+   - [ ] Multicloud  
+
+
+3. **According to the shared responsibility model, which cloud service type places the most responsibility on the customer?**  
+
+   - [ ] Infrastructure as a Service (IaaS)  
+
+   - [ ] Software as a Service (SaaS)  
+
+   - [ ] Platform as a Service (PaaS)  
+
+  
+
+---
