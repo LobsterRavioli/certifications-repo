@@ -4,12 +4,6 @@ This repository contains notes and resources for studying various certifications
 
 ---
 
-## 📋 Table of Contents
-- [Study Topics](#study-topics)
-- [Resources](#resources)
-
----
-
 ## 📝 Study Topics
 
 - **[Azure Fundamentals (AZ-900)](certifications-notes/azure-fundamentals/index.md)**  
@@ -19,7 +13,10 @@ This repository contains notes and resources for studying various certifications
   Notes on developing, deploying, and maintaining Azure solutions.
 
 - **[LPIC-1](certifications-notes/lpic-1/index.md)**  
-  Notes on Linux system administration, including command-line usage, file systems, system processes, and essential tools.
+  Notes on Linux system administration, including command-line usage, file systems, system processes, and essential tools.
+
+- **[Certified Kubernetes Administrator (CKA)](certifications-notes/cka/index.md)**  
+  Notes on Kubernetes architecture, cluster management, networking, security, and troubleshooting.
 
 ---
 
